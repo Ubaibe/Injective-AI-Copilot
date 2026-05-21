@@ -1,9 +1,9 @@
-python-telegram-bot==21.6
-langchain==0.2.16
-langchain-core==0.2.38
-langchain-openai==0.1.25
-python-dotenv==1.0.1
-openai==1.45.0
-requests==2.32.3
+python-telegram-bot
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-openai
+requests
 apscheduler
 reportlab
